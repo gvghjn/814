@@ -46,7 +46,7 @@ system to work with. The installation can then be continued with Step 3.
 sudo reboot
 ```
 
-#### Step 3: Install the required packages (select the option for the distro you are using)
+#### Step 3: Install the required packages 
 
 Note: If your Linux distro does not fall into one of options listed
 below, you will need to research how to properly setup up the development
@@ -157,7 +157,7 @@ git clone https://github.com/morrownr/8814au.git
 cd ~/src/8814au
 ```
 
-#### Step 8: Run the installation script (`install-driver.sh`)
+#### Step 8: Run the installation script
 
 Note: It is recommended that you terminate running apps so as to provide the
 maximum amount of RAM to the compilation process.
@@ -331,7 +331,7 @@ Note: The following removes everything that has been installed, with the
 exception of the packages installed in Step 3 and the driver directory.
 The driver directory can be deleted after running this script.
 
-#### Step 1: Open a terminal (e.g. Ctrl+Alt+T)
+#### Step 1: Open a terminal
 
 #### Step 2: Move to the driver directory
 
