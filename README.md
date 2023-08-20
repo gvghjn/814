@@ -1,6 +1,6 @@
 
 
-#### Step 1: Open a terminal (e.g. Ctrl+Alt+T)
+#### Step 1: Open a terminal 
 
 #### Step 2: Update and upgrade system packages (select the option for the distro you are using)
 
