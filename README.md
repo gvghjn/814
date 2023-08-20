@@ -2,7 +2,7 @@
 
 #### Step 1: Open a terminal 
 
-#### Step 2: Update and upgrade system packages (select the option for the distro you are using)
+#### Step 2: Update and upgrade system packages
 
 Note: If your Linux distro does not fall into one of options listed
 below, you will need to research how to `update` and `upgrade` your system
